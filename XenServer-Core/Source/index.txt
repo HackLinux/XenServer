@@ -1,0 +1,23 @@
+﻿2.2.3.1
+2.4.3.1: Chức năng của từng tần trong TCP/IP
+2.4.5.1: Đơn vị dữ liệu từng tầng
+2.4.6.1
+2.6.1.1: cách nối cáp
+3.0.1.1:
+3.2.4.1: 
+3.4.2.1
+4.0.1.1
+4.1.5.1
+No: 142
+4.2.3.1'
+4.2.5.1
+4.1.4.1: cấu trúc gói tin TCP va UDP 20byte
+4.2.3.1: TCP Connection Establishment and Termination
+	+ URG: Dữ liệu quan trọng được truyền ngay
+	+ PSH: Dữ liệu cần được giao tức thì
+	Sequence: tùy thuộc vào máy local
+	Đóng phiên: mỗi bên đều phải gửi: 4.2.5.1
+
+4.3.1.1
+
+5.1.6.1: IP HEADER 472 - 20 = 452 = data
